@@ -1,0 +1,20 @@
+Need these files here:
+
+ARMIPS assembler by Kingcom, used v0.9
+- armips.exe
+
+BLZ by CUE
+- blz.exe
+
+Nintendo DS rom tool, grab it from devkitpro
+- ndstool.exe
+- libgcc_s_sjlj-1.dll
+- libstdc++-6.dll
+
+PixelPet by Prof. 9, used v1.0-alpha2-6a6c055 (included)
+- LibPixelPet.dll
+- PixelPet.exe
+
+TextPet by Prof. 9, used v1.0-alpha3-8f4f0db (included)
+- libtxtpt.dll
+- TextPet.exe

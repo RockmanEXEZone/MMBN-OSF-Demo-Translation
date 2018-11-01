@@ -1,0 +1,7 @@
+Need these files here:
+
+Rockman EXE: Operate Shooting Star - Demo Version ROM
+- EXEOSS_Demo.nds (MD5 4D77996723F558F1B66B4A84F1704AFB)
+
+Produces the following output ROM:
+- MMBNOSF_Demo.nds
